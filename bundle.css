@@ -1,0 +1,44 @@
+:root {
+	--main-yellow: #ffeb3b;
+	--main-red: #ff0000;
+	--main-white: white;
+	--main-black: #1f1f1f;
+	--spacing: 4;
+}
+
+html,
+body {
+	color: var(--main-black);
+	font-family: "Roboto", sans-serif;
+}
+
+html {
+	background-color: var(--main-white);
+}
+@media (prefers-color-scheme: dark) {
+	html {
+		background-color: var(--main-black);
+	}
+}
+
+body {
+	background-color: var(--main-yellow);
+	box-shadow: inset 0 0 75px rgba(0, 0, 0, 0.4);
+	min-height: 100vh;
+	padding: 48px;
+}
+
+h1 {
+	color: var(--main-red);
+	font-size: 3rem;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+a {
+	color: var(--main-black) !important;
+	font-weight: bold;
+}
+
+p {
+	font-family: "Roboto", sans-serif;
+}
