@@ -72,24 +72,22 @@ console.log(&#39;Test&#39;);
 	</entry>
 	
 	<entry>
-		<title>This is my first post.</title>
+		<title>The Nitpicking Olimpics</title>
 		<link href="https://weblog.therockstar.dev/firstpost/"/>
 		<updated>2018-05-01T00:00:00Z</updated>
 		<id>https://weblog.therockstar.dev/firstpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;header-anchor&quot; href=&quot;https://weblog.therockstar.dev/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;
-&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token deleted-sign deleted language-js&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;  counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;/span&gt;
-&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// Test with a line break above this line.&lt;/span&gt;
-&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;Test&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+		<content type="html">&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Programming: Where creating a mess and then having someone else criticize it for being a mess is just another day at the office.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Alright folks, let&#39;s talk about everyone&#39;s favorite pastime, nitpicking in pull requests. Sit back, relax, you&#39;re about to embark on a wild ride down a rabbit hole of baffling pedantry.&lt;/p&gt;
+&lt;p&gt;First off, just imagine the scene. There you are, right? Running on three cups of coffee, shaky hands typing over your keyboard like some possessed pianist. You&#39;ve churned code and slain bugs, resulting in this beautiful piece of lines that work harmoniously like the sections of a symphony orchestra. Overjoyed, you push the communal offering into the precious realm of the repository.&lt;/p&gt;
+&lt;p&gt;And then we wait, friends. Oh, the sacred wait for the Pull Request review.&lt;/p&gt;
+&lt;p&gt;And just when you think you&#39;re about to be greeted with virtual pats for your meticulous code-writing and problem-solving skills, &#39;here comes Johnny&#39; bringing down the axe with comments like, &amp;quot;Could you add a space after this comma?&amp;quot; or &amp;quot;Can we change the order of these imports?&amp;quot; Meanwhile, the actual functionality of the code that you&#39;ve bled for is as likely to get a mention as a vegan at a barbecue convention!&lt;/p&gt;
+&lt;p&gt;We&#39;ve all seen our fair share of nitpicks in code review, those minute changes that do almost nothing to improve the code&#39;s effectiveness, readability, or speed. Yet some folks treat them like it&#39;s Noah&#39;s bloody Ark and they&#39;re rejecting a board-pass to a unicorn!&lt;/p&gt;
+&lt;p&gt;Look, I&#39;m not saying we should bulldoze best practices or say adios to style guides. Hell no! Let&#39;s do keep things neat. But, by the holy memory leak! One trembles to think if there&#39;s an actual scale to quantify the energy spent on pointing out such tiny slips versus solving real problems.&lt;/p&gt;
+&lt;p&gt;Now listen, before someone goes indirectly implying that I am endorsing a sloppy code-writing fest in retaliation, let&#39;s clear the air. There&#39;s a bloody great difference between necessary feedback and armchair-nitpicking! Yes, you heard that right, feedback—not nitpicks—reduce kinks and level up the output. Meanwhile, obsessing about the perfect indentation level just makes you the star of your own tragic version of &#39;Inception.&#39;&lt;/p&gt;
+&lt;p&gt;And let&#39;s cut the biggest hypocrisy of it: Somehow, there&#39;s an underground belief that nitpicking equals thoroughness. Let&#39;s unfurl it, folks - nitpicking ain&#39;t thoroughness, it&#39;s hesitation and insecurity masquerading behind thequestion &amp;quot;Can you enclose this string with single quotes?&amp;quot;&lt;/p&gt;
+&lt;p&gt;Preserve your sanity, your midnight oil, and remember! Code reviews are for understanding how the code executes the assigned task, not for hunting the misplaced full stop or a misspelled variable. Got it? Good! That concludes my rant, keep those fingers typing and your wits sharp!&lt;/p&gt;
 </content>
 	</entry>
 </feed>

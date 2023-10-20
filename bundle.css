@@ -60,12 +60,40 @@ h1 + blockquote p {
 
 p {
 	color: var(--main-black);
-	font-family: "Cormorant Garamond", serif;
-	font-weight: 500;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 400;
 	text-indent: 1rem;
 	margin-bottom: 1rem;
-	font-size: 24px;
-	line-height: 34.8px;
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+.postlist li,
+.postlist li a {
+	text-decoration: none;
+	font-family: "Bebas Neue", serif !important;
+	color: var(--main-red) !important;
+	font-size: 2rem;
+	line-height: 1.5;
+}
+
+.postlist li a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+li {
+	font-family: "Montserrat", sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Noto Sans Display", sans-serif;
+	font-weight: 400;
+	color: var(--main-black);
 }
 
 h1 a,
